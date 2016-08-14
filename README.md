@@ -1,6 +1,6 @@
 # Amazon-movie-reviews
 
-This dataset can be found at http://snap.stanford.edu/data/web-Movies.html
+Took initiative of furthering my learning in data analytics by accessing public datasets [(Stanford’s Amazon Movie Review)](http://snap.stanford.edu/data/web-Movies.html) and creating useful analytics using Python.
 
 • Classified the user’s review as either Positive, Negative or Neutral with the help of AFINN word list.
 
